@@ -6,7 +6,7 @@
 ![alt tag](/img-2.png)
 
 ### Installation
-`git clone https://github.com/codekerala/laravel-vuejs-invoice.git`
+`git clone https://github.com/guru2921/laravel-vuejs-invoice.git`
 
 `cd laravel-vuejs-invoice`
 
